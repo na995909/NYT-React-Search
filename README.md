@@ -26,6 +26,6 @@ I've followed the below instructions:
 
      * **Saved** - Renders articles that are saved in the MongoDB and allows the user to visit the article's url or delete it from the MongoDB. This page may be made up of multiple smaller components or JSX that renders plain HTML elements.
 
-link to the app: https://dashboard.heroku.com/apps/nyt-react-search1212
+link to the app: https://nyt-react-search1212.herokuapp.com
 
 
